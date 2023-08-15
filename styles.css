@@ -1,0 +1,21 @@
+/* Inline Styles */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+/* Internal Styles */
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+/* External Styles */
+/* You can add more styles here if needed */
